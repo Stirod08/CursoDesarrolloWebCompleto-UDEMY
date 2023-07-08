@@ -15,22 +15,22 @@ Este repositorio contiene todos los proyectos realizados en el curso, en el cual
 ## Proyectos Avanzados
 
 ### DevWebCamp
-**Descripción: **Sitio Web para una conferencia de diseño donde los usuarios podrán pagar por sus entradas y reservar sus registros.
+**Descripción:** Sitio Web para una conferencia de diseño donde los usuarios podrán pagar por sus entradas y reservar sus registros.
 
 **Tecnologías utilizadas**
 
 ### AppSalon
-**Descripción: **Proyecto para un salón de belleza.
+**Descripción:** Proyecto para un salón de belleza.
 
 **Tecnologías utilizadas**
 
 UpTask 
-**Descripción: **Administrador de Proyectos en Ajax, PHP, MySQL y JavaScript
+**Descripción:** Administrador de Proyectos en Ajax, PHP, MySQL y JavaScript
 
 **Tecnologías utilizadas**
 
 Bienes Raices
-**Descripción: **Sitio Web para una inmobiliaria
+**Descripción:** Sitio Web para una inmobiliaria
 
 **Tecnologías utilizadas**
 
